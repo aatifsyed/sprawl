@@ -22,3 +22,6 @@ anyhow = "1.0.57"
 httptest = "0.15.4"
 soup = "0.5.1"
 tokio = { version = "1.18.2", features = ["macros"] }
+
+[workspace]
+members = ["sprawl-bin"]
