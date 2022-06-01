@@ -1,5 +1,8 @@
 [package]
 name = "sprawl"
+description = "Follow webpage links"
+license = "MIT"
+repository = "https://github.com/aatifsyed/sprawl"
 version = "0.1.0"
 edition = "2021"
 
